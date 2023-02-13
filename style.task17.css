@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+table {
+    border: 2px solid #0fbbe2d7;
+    background: linear-gradient(-30deg, #e66465, #9198e5,#9fe591);
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    border: 0.5px solid #21221d;
+    text-align: center;
+}
